@@ -1,0 +1,32 @@
+p {
+  font-family: Arial;
+  text-align: center;
+}
+
+.info {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.jigglypuff {
+  background-color: rgb(245, 168, 75);
+  color: rgb(52, 52, 52);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 35px;
+  font-size: 19px;
+}
+
+.anchorJ {
+  color: white;
+  font-weight: bold;
+}
